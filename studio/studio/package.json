@@ -1,0 +1,13 @@
+{
+  "name": "hkey-studio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "sanity dev",
+    "deploy": "sanity deploy"
+  },
+  "dependencies": {
+    "sanity": "^3.50.0",
+    "@sanity/vision": "^3.50.0"
+  }
+}
